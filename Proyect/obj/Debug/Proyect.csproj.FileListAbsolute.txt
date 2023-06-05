@@ -1,0 +1,11 @@
+C:\Users\enrri\source\repos\Proyect\Proyect\bin\Debug\Proyect.exe.config
+C:\Users\enrri\source\repos\Proyect\Proyect\bin\Debug\Proyect.exe
+C:\Users\enrri\source\repos\Proyect\Proyect\bin\Debug\Proyect.pdb
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.csproj.AssemblyReference.cache
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.Form1.resources
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.Properties.Resources.resources
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.csproj.GenerateResource.cache
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.csproj.CoreCompileInputs.cache
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.exe
+C:\Users\enrri\source\repos\Proyect\Proyect\obj\Debug\Proyect.pdb
